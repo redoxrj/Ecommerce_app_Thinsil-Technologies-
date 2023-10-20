@@ -3,7 +3,14 @@
 Hi! My name is **Rajnish Kumar**, I have made this ecommerce app for ReactJS developer Assignment
 Thinsil Tech. Pvt. Ltd. </br>
 
+# live-link : https://eccomerce-app-thinsil-technologies.onrender.com
+</br>
+#preview
 
+![Screenshot (106)](https://github.com/redoxrj/Ecommerce_app_Thinsil-Technologies-/assets/140983045/3cf2058a-77c4-40ab-a205-d155d711f47f)
+![Screenshot (105)](https://github.com/redoxrj/Ecommerce_app_Thinsil-Technologies-/assets/140983045/5c7772dc-5b11-4433-a3ff-98b9710814a8)
+
+<br/>
 # Tech. Used
 
 1.  **Redux**
@@ -31,11 +38,9 @@ Cv: 566 (any 3 digits)<br>
 ✅ And many more....<br>
 
 
-🔗 link : https://lnkd.in/ddZmqbHc<br>
+🔗 link : [https://lnkd.in/ddZmqbHc<br>](https://eccomerce-app-thinsil-technologies.onrender.com)
 
-## Deployed
-So what are u waiting for Go ,checkout and explore this amazing web app 🚀
-**Render** Click [Here](https://redoxcart-mern-app.onrender.com/) **RedoxCart**
+
 
 
 # Install Dependencies
